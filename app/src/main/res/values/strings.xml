@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseCrsashlytics</string>
+    <string name="name_developer">Candra Julius Sinaga</string>
+    <string name="crash_this_app">Crash this app</string>
+</resources>

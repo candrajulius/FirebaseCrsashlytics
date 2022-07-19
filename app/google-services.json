@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482959766494",
+    "project_id": "fir-crsashlytics",
+    "storage_bucket": "fir-crsashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482959766494:android:ff699235c8da66162da34f",
+        "android_client_info": {
+          "package_name": "com.candra.firebasecrsashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482959766494-1ns7p8gq8iddl5jssfv2ho7chf990a5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgUU5uq-CY1LPhgD-0IK_K6DEpYUn2HWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482959766494-1ns7p8gq8iddl5jssfv2ho7chf990a5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
